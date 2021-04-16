@@ -20,22 +20,3 @@ After completing this project, you will have a better understanding of data visu
 * Subplot operations
 * Axes modifications
 
-# Output
-
-![Screenshot (528)](https://user-images.githubusercontent.com/60145175/115016759-23bfea00-9ed3-11eb-975b-dcbb24c150e9.png)
-
-## Graphs
-
-![Figure_1](https://user-images.githubusercontent.com/60145175/115016820-3b976e00-9ed3-11eb-9d7f-854749ea5a12.png)
-
-![Figure_2](https://user-images.githubusercontent.com/60145175/115016836-3fc38b80-9ed3-11eb-8dff-07465312945f.png)
-
-![Figure_3](https://user-images.githubusercontent.com/60145175/115016845-43571280-9ed3-11eb-94f8-cb3ac692c4a0.png)
-
-![Figure_4](https://user-images.githubusercontent.com/60145175/115016853-47833000-9ed3-11eb-8e30-808174350d1e.png)
-
-![Figure_5](https://user-images.githubusercontent.com/60145175/115016871-4b16b700-9ed3-11eb-8822-63eafb92cd51.png)
-
-![Figure_6](https://user-images.githubusercontent.com/60145175/115016880-4d791100-9ed3-11eb-9fca-e6caf3ee2c1e.png)
-
-![Figure_7](https://user-images.githubusercontent.com/60145175/115016888-50740180-9ed3-11eb-8235-a481300788b0.png)
